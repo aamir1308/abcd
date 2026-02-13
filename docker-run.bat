@@ -1,0 +1,3 @@
+@echo off
+echo Starting abcd...
+docker-compose up
